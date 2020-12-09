@@ -1,3 +1,5 @@
+![image](./background.jpeg)
+
 ### Hi there 👋
 
 <!--
