@@ -1,4 +1,3 @@
-![image](./background.jpeg)
 
 ### Hi there 👋
 
@@ -10,8 +9,6 @@
 🌱 I’m a front-end development engineer . <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mxin-d&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxin-d&theme=tokyonight&layout=compact)
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
